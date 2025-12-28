@@ -18,9 +18,7 @@ public:
 
     // ham hien thi thong tin
     void printInfo() {
-        cout << "ID: " << id
-             << " - Ten: " << name
-             << " - Diem: " << score << endl;
+        cout << "ID: " << id << " - Ten: " << name << " - Diem: " << score << endl;
     }
 };
 
